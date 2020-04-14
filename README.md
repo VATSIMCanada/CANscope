@@ -2,7 +2,7 @@
 
 ### CANscope
 
-CANscope is a plugin that adds NARDS and Csit to EuroScope.
+The CANscope plug-in puts the CJS (Controller's Jurisdiction Symbol) or Tracking controller's ID if you prefer just above the target, or RPS (Radar Position Symbol). Here's what it looks like:
 
 [Visit VATCAN](https://vatcan.ca)
 
