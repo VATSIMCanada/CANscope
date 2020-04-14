@@ -2,7 +2,8 @@
 
 ### CANscope
 
-CANscope is a plugin that adds NARDS and Csit to EuroScope.
+CANscope is a plugin that adds a way to see who is currently tracking an aircraft into
+EuroScope.
 
 [Visit VATCAN](https://vatcan.ca)
 
