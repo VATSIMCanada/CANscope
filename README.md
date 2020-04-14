@@ -4,10 +4,6 @@
 
 CANscope is a plugin that adds NARDS and Csit to EuroScope.
 
-**Visit VATCAN** 
+[Visit VATCAN](https://vatcan.ca)
 
-https://vatcan.ca
-
-**You can find more information here** 
-
-https://vatcan.ca/canscope
+[CANscope](https://vatcan.ca/canscope)
