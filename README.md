@@ -1,4 +1,4 @@
-![VATCAN Logo](https://www.vatcan.ca/img/logo.png)
+![VATCAN Logo](https://i.imgur.com/l6ZwnfT.png)
 
 ### CANscope
 
